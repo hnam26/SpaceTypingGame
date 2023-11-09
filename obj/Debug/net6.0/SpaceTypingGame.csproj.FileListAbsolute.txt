@@ -1,0 +1,48 @@
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.AssemblyInfoInputs.cache
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.AssemblyInfo.cs
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.exe
+D:\Visual Studio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.deps.json
+D:\Visual Studio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.runtimeconfig.json
+D:\Visual Studio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.dll
+D:\Visual Studio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.pdb
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.dll
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\refint\SpaceTypingGame.dll
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.pdb
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.genruntimeconfig.cache
+D:\Visual Studio\C#\SpaceTypingGame\obj\Debug\net6.0\ref\SpaceTypingGame.dll
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.exe
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.deps.json
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.runtimeconfig.json
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.dll
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\SpaceTypingGame.pdb
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.AssemblyInfoInputs.cache
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.AssemblyInfo.cs
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.csproj.CoreCompileInputs.cache
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.dll
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\refint\SpaceTypingGame.dll
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.pdb
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\SpaceTypingGame.genruntimeconfig.cache
+D:\VisualStudio\C#\SpaceTypingGame\obj\Debug\net6.0\ref\SpaceTypingGame.dll
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\bg.jpg
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\bulltets.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\download.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\enemy.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\missile.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\player.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Text\random.txt
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Font\LICENSE.txt
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Font\Roboto-Medium.ttf
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Font\Roboto.zip
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Images\missile1.png
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\dead.wav
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\hit.wav
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\shoot.wav
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\sound.mp3
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\dead.mp3
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\hit.mp3
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Sound\shoot.mp3
+D:\VisualStudio\C#\SpaceTypingGame\bin\Debug\net6.0\Resources\Font\RobotoMono-Italic.ttf

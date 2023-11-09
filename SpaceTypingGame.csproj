@@ -1,0 +1,104 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Font\LICENSE.txt" />
+    <None Remove="Resources\Font\Roboto-Black.ttf" />
+    <None Remove="Resources\Font\Roboto-BlackItalic.ttf" />
+    <None Remove="Resources\Font\Roboto-Bold.ttf" />
+    <None Remove="Resources\Font\Roboto-BoldItalic.ttf" />
+    <None Remove="Resources\Font\Roboto-Italic.ttf" />
+    <None Remove="Resources\Font\Roboto-Light.ttf" />
+    <None Remove="Resources\Font\Roboto-LightItalic.ttf" />
+    <None Remove="Resources\Font\Roboto-Medium.ttf" />
+    <None Remove="Resources\Font\Roboto-MediumItalic.ttf" />
+    <None Remove="Resources\Font\Roboto-Regular.ttf" />
+    <None Remove="Resources\Font\Roboto-Thin.ttf" />
+    <None Remove="Resources\Font\Roboto-ThinItalic.ttf" />
+    <None Remove="Resources\Font\Roboto.zip" />
+    <None Remove="Resources\Font\RobotoMono-Italic.ttf" />
+    <None Remove="Resources\Images\bg.jpg" />
+    <None Remove="Resources\Images\bulltets.png" />
+    <None Remove="Resources\Images\download.png" />
+    <None Remove="Resources\Images\enemy.png" />
+    <None Remove="Resources\Images\missile.png" />
+    <None Remove="Resources\Images\missile1.png" />
+    <None Remove="Resources\Images\player.png" />
+    <None Remove="Resources\Sound\dead.mp3" />
+    <None Remove="Resources\Sound\dead.wav" />
+    <None Remove="Resources\Sound\hit.mp3" />
+    <None Remove="Resources\Sound\hit.wav" />
+    <None Remove="Resources\Sound\shoot.mp3" />
+    <None Remove="Resources\Sound\shoot.wav" />
+    <None Remove="Resources\Sound\sound.mp3" />
+    <None Remove="Resources\Text\random.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Font\LICENSE.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Font\Roboto-Medium.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Font\Roboto.zip">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Font\RobotoMono-Italic.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\bg.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\bulltets.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\download.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\enemy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\missile.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\missile1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\player.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\dead.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\dead.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\hit.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\hit.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\shoot.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\shoot.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Sound\sound.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Text\random.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+</Project>
