@@ -264,8 +264,6 @@ namespace SpaceTypingGame
             {
                 // If there is no selected word, find a word from the list that starts with the typed letter
                 _selectedWord = _usedList.Find(word => !word.IsLocked && char.ToLower(word.Text[0]) == char.ToLower(typedLetter));
-                Console.WriteLine("Fine WOrd");
-                Console.WriteLine(_usedList.Count);
                 if (_selectedWord != null)
                 {
 
